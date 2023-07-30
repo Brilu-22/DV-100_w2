@@ -6,4 +6,4 @@ $(document).ready(function(){
 
     // when the image loads 
     $(".hero-image").animate({top: '-=100px'})
-})
+});
